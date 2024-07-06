@@ -17,11 +17,10 @@ Transformar y visializar los datos que permitan a los propietarios de la tienda 
 ![captura readme](https://github.com/ZairaPuente/MicrosoftExcel/assets/174209687/2aec5e9c-11b1-4bf2-8125-dc98e6549293)
 
 ### Código utilizado en el análisis
-```
-SELEC * FROM table
-```
+`SELEC * FROM table` Comillas simples
 
 ``` 
 SELECT * FROM cliente
 WHILE id_client = 10
 ```
+comillas triples con el código en medio.
