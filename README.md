@@ -1,4 +1,4 @@
-# Analisis de ventas en la tienda X
+# Análisis de ventas en la tienda X
 
 ## Contexto
 Este conjunto de datos contiene información detallada sobre las ventas de una tienda. Incluye datos sobre diversos productos vendidos, su fecha de venta, categoria, etc.
