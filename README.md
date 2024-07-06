@@ -18,3 +18,5 @@ Transformar y visializar los datos que permitan a los propietarios de la tienda 
 
 ### Código utilizado en el análisis
 ` SELEC * FROM table `
+Use `git status` to list all new or modified files that haven't yet been committed.
+``` SELECT * FROM cliente```
