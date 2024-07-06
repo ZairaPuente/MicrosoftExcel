@@ -20,5 +20,10 @@ Transformar y visializar los datos que permitan a los propietarios de la tienda 
 ` SELEC * FROM table `
 
 Use `git status` to list all new or modified files that haven't yet been committed.
+Para resaltar texto en una misma línea se `usa comilla simple`, sino `se ve 
+así`
 
-``` SELECT * FROM cliente```
+``` 
+SELECT * FROM cliente
+WHILE id_client = 10
+```
